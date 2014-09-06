@@ -1,8 +1,8 @@
-name: 
+name: check_senturion
 description: "file:///README.md"
 url: "https://www.netways.org/projects/plugins"
 tags: ~
-vendor: Netways
+vendor: Sensatronics,NETWAYS
 target: Temperature
 type: Plugin
 license: gplv2
